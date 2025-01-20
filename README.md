@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ochuba Judith(Judith_20)
-- 👀 I’m a skillful beginner Web Developer with knowledge in robust programming languages such as HTML, CSS, JavaScript and Python
-- 🌱 I’m currently learning ReactJS and Advanced Responsive CSS at Africa Agility Foundation
+- 👀 I’m a skilled Web Developer with knowledge in robust programming languages such as HTML, CSS, JavaScript, React, Tailwind and Python
 - 💞️ I’m looking to collaborate on projects
-- 💞️ All of my projects are available at my portfolio
+- 💞️ All of my projects are available at my portfolio/GitHub Account
 - 📫 How to reach me: ochubajudith@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Effective collaboration ensures smooth workflow
